@@ -1,0 +1,7 @@
+D:\tfs_project\EPAReportingServices\DAL\bin\Release\DAL.dll
+D:\tfs_project\EPAReportingServices\DAL\bin\Release\DAL.pdb
+D:\tfs_project\EPAReportingServices\DAL\bin\Release\Common.dll
+D:\tfs_project\EPAReportingServices\DAL\bin\Release\Common.pdb
+D:\tfs_project\EPAReportingServices\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\tfs_project\EPAReportingServices\DAL\obj\Release\DAL.dll
+D:\tfs_project\EPAReportingServices\DAL\obj\Release\DAL.pdb
